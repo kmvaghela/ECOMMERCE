@@ -1,17 +1,9 @@
 import img1 from "./assets/1.png";
 import img2 from "./assets/2.png";
 import img3 from "./assets/3.png";
-import caterogryImg1 from "./assets/category-item-images/1.jpg";
-import caterogryImg2 from "./assets/category-item-images/2.jpg";
-import caterogryImg3 from "./assets/category-item-images/3.jpg";
-import ProductImg1 from "./assets/product-images/1.png";
-import ProductImg2 from "./assets/product-images/2.png";
-import ProductImg3 from "./assets/product-images/3.png";
-import ProductImg4 from "./assets/product-images/4.png";
-import ProductImg5 from "./assets/product-images/5.png";
-import ProductImg6 from "./assets/product-images/6.png";
-import ProductImg7 from "./assets/product-images/7.png";
-import ProductImg8 from "./assets/product-images/8.png";
+import caterogryImg1 from "./assets/category-item-images/1.jpg"
+import caterogryImg2 from "./assets/category-item-images/2.jpg"
+import caterogryImg3 from "./assets/category-item-images/3.jpg"
 
 export const sliderItems = [
     {
@@ -58,35 +50,34 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: ProductImg1,
+        img: "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
     },
     {
         id: 2,
-        img: ProductImg2,
+        img: "https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
     },
     {
         id: 3,
-        img: ProductImg3,
+        img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
     },
     {
         id: 4,
-        img: ProductImg4,
+        img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
     },
     {
         id: 5,
-        img: ProductImg5,
+        img: "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
     },
     {
         id: 6,
-        img: ProductImg6,
+        img: "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
     },
     {
         id: 7,
-        img: ProductImg7,
+        img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
     },
     {
         id: 8,
-        img: ProductImg8,
+        img: "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
     },
-
 ]

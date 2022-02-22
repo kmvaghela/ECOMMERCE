@@ -11,7 +11,6 @@ import ProductImg4 from "./assets/product-images/4.png";
 import ProductImg5 from "./assets/product-images/5.png";
 import ProductImg6 from "./assets/product-images/6.png";
 import ProductImg7 from "./assets/product-images/7.png";
-import ProductImg8 from "./assets/product-images/8.png";
 
 export const sliderItems = [
     {
@@ -83,10 +82,6 @@ export const popularProducts = [
     {
         id: 7,
         img: ProductImg7,
-    },
-    {
-        id: 8,
-        img: ProductImg8,
     },
 
 ]
