@@ -4,9 +4,9 @@ import ProductList from "./pages/ProductList";
 
 const App = () => {
   return (
-    <Home />
+    // <Home />
     // <ProductList />
-    // <Product />
+    <Product />
   );
 };
 

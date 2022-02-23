@@ -17,7 +17,7 @@ const Info = styled.div`
   background-color: rgba(0, 0, 0, 0.2);
   opacity: 0;
   transition: all 0.5s ease;
-  cursor: pointer;
+
 `;
 
 const Container = styled.div`
