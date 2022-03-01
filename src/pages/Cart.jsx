@@ -3,8 +3,6 @@ import styled from "styled-components";
 import Navbar from "../components/Navbar";
 import Announcement from "../components/Announcement";
 import Footer from "../components/Footer";
-import CartImg1 from "../assets/cart-images/cart-img-01.png";
-import CartImg2 from "../assets/cart-images/cart-img-02.png";
 import RemoveIcon from "@mui/icons-material/Remove";
 import AddIcon from "@mui/icons-material/Add";
 import { mobile } from "../responsive";
@@ -175,7 +173,10 @@ const Cart = () => {
           <Info>
             <Product>
               <ProductDetail>
-                <Image src={CartImg1} alt="not found" />
+                <Image
+                  src="https://i.ibb.co/FJJWQRW/cart-img-01.png"
+                  alt="not found"
+                />
                 <Details>
                   <ProductName>
                     <b>Product:</b> JESSIE THUNDER SHOES
@@ -201,7 +202,10 @@ const Cart = () => {
             <Hr />
             <Product>
               <ProductDetail>
-                <Image src={CartImg2} alt="not found" />
+                <Image
+                  src="https://i.ibb.co/nfhRWtd/cart-img-02.png"
+                  alt="not found"
+                />
                 <Details>
                   <ProductName>
                     <b>Product:</b> HAKURA T-SHIRT
